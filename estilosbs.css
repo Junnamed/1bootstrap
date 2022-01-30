@@ -1,0 +1,25 @@
+
+.carousel-inner{
+    padding: 5px;
+    margin: 5px; 
+}
+.slide{
+    margin-top: 10px;
+}
+.slide img{
+  height: 65vh;
+}
+.conteiner{
+    color: rgb(2, 2, 83);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.texto{
+   text-align: center;
+   font-size: 3em;
+}
+.razones{
+    margin: 15px;
+ }
+ .tiporazon{
+    margin: 15px;
+ }
